@@ -50,4 +50,3 @@ Desenvolvimento de um site simples para uma mecânica automotiva.
 Desenvolvido por **Felipixel-Martins**
 
 Projetos acadêmicos desenvolvidos durante o curso de ADS.
-
