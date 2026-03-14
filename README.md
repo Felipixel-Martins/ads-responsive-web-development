@@ -42,6 +42,17 @@ Link: https://felipixel-martins.github.io/site-mecanica-silva/
 
 ---
 
+## 🔧 Projeto 04 — combinadores-css
+
+Desenvolvimento atividade semanal com foco na criação de links utilizando as tags HTML.
+
+Link:
+
+* HTML/CSS
+* Estrutura simples
+
+---
+
 # 🎓 Informações Acadêmicas
 
 **Curso:** Análise e Desenvolvimento de Sistemas (ADS)
