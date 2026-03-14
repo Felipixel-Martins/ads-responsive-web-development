@@ -18,17 +18,23 @@ Cada projeto desenvolvido na disciplina está organizado em uma pasta própria d
 
 Página informativa sobre um animal em risco de extinção.
 
+Link: https://felipixel-martins.github.io/tigre-extincao/
+
 ---
 
 ## ✉️ Projeto 02 — carta-ong
 
 Projeto de uma página HTML simulando uma carta formal destinada a uma ONG.
 
+Link: https://felipixel-martins.github.io/carta-ong/
+
 ---
 
 ## 🔧 Projeto 03 — site-mecanica
 
 Desenvolvimento de um site simples para uma mecânica automotiva.
+
+Link: https://felipixel-martins.github.io/site-mecanica-silva/
 
 * Construção de layout de página
 * Organização de conteúdo
@@ -50,7 +56,3 @@ Desenvolvimento de um site simples para uma mecânica automotiva.
 Desenvolvido por **Felipixel-Martins**
 
 Projetos acadêmicos desenvolvidos durante o curso de ADS.
-<<<<<<< HEAD
-=======
-
->>>>>>> 4216ccc98b9b7adb0b9f4ba43694045cfac3f2cb
