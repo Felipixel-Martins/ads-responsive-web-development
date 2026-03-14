@@ -18,7 +18,9 @@ Este repositório contém o **código-fonte completo da aplicação**.
 
 A página pode ser acessada através do GitHub Pages:
 
-🔗 https://felipixel-martins.github.io/carta-ong/
+🔗 https://felipixel-martins.github.io/ads-responsive-web-development/carta-ong/
+
+🔗 https://github.com/Felipixel-Martins/ads-responsive-web-development/tree/main/carta-ong
 
 ---
 

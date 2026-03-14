@@ -12,6 +12,18 @@ Este projeto consiste em uma **página web simples** desenvolvida como parte das
 
 Este repositório contém o **código-fonte da aplicação**.
 
+---
+
+## Link do Projeto
+
+A página pode ser acessada através do GitHub Pages:
+
+🔗 https://felipixel-martins.github.io/ads-responsive-web-development/site-mecanica-silva/
+
+🔗 https://github.com/Felipixel-Martins/ads-responsive-web-development/tree/main/site-mecanica-silva
+
+---
+
 ## Tecnologias utilizadas no projeto
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:

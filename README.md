@@ -18,7 +18,9 @@ Cada projeto desenvolvido na disciplina está organizado em uma pasta própria d
 
 Página informativa sobre um animal em risco de extinção.
 
-Link: https://felipixel-martins.github.io/tigre-extincao/
+🔗 https://github.com/Felipixel-Martins/ads-responsive-web-development/tree/main/tigre-extincao
+
+🔗 https://felipixel-martins.github.io/ads-responsive-web-development/tigre-extincao/
 
 ---
 
@@ -26,7 +28,9 @@ Link: https://felipixel-martins.github.io/tigre-extincao/
 
 Projeto de uma página HTML simulando uma carta formal destinada a uma ONG.
 
-Link: https://felipixel-martins.github.io/carta-ong/
+🔗 https://felipixel-martins.github.io/ads-responsive-web-development/carta-ong/
+
+🔗 https://github.com/Felipixel-Martins/ads-responsive-web-development/tree/main/carta-ong
 
 ---
 
@@ -34,7 +38,9 @@ Link: https://felipixel-martins.github.io/carta-ong/
 
 Desenvolvimento de um site simples para uma mecânica automotiva.
 
-Link: https://felipixel-martins.github.io/site-mecanica-silva/
+🔗 https://felipixel-martins.github.io/ads-responsive-web-development/site-mecanica-silva/
+
+🔗 https://github.com/Felipixel-Martins/ads-responsive-web-development/tree/main/site-mecanica-silva
 
 * Construção de layout de página
 * Organização de conteúdo
@@ -46,7 +52,9 @@ Link: https://felipixel-martins.github.io/site-mecanica-silva/
 
 Desenvolvimento atividade semanal com foco na criação de links utilizando as tags HTML.
 
-Link:
+🔗 https://felipixel-martins.github.io/ads-responsive-web-development/combinadores-css/
+
+🔗 https://github.com/Felipixel-Martins/ads-responsive-web-development/tree/main/combinadores-css
 
 * HTML/CSS
 * Estrutura simples

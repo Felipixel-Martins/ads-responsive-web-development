@@ -4,9 +4,6 @@
 
 ## Informações do Projeto
 
-Link da página:  
-https://felipixel-martins.github.io/tigre-extincao/
-
 Repositório para exibir o **Projeto do fórum da disciplina Responsive Web Development - UNIVALI ADS - 2026**.
 
 Este projeto consiste em uma **página web simples** desenvolvida como parte das atividades do curso de **Análise e Desenvolvimento de Sistemas da Universidade do Vale do Itajaí (UNIVALI)**.
@@ -14,6 +11,16 @@ Este projeto consiste em uma **página web simples** desenvolvida como parte das
 A página apresenta **informações sobre o tigre (*Panthera tigris*)**, abordando características da espécie e destacando a importância da **preservação desse animal ameaçado de extinção**.
 
 Este repositório contém o **código-fonte da aplicação**.
+
+---
+
+## Link do Projeto
+
+A página pode ser acessada através do GitHub Pages:
+
+🔗 https://github.com/Felipixel-Martins/ads-responsive-web-development/tree/main/tigre-extincao
+
+🔗 https://felipixel-martins.github.io/ads-responsive-web-development/tigre-extincao/
 
 ---
 

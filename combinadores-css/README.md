@@ -14,6 +14,16 @@ Este repositório contém o **código-fonte completo**.
 
 ---
 
+## Link do Projeto
+
+A página pode ser acessada através do GitHub Pages:
+
+🔗 https://felipixel-martins.github.io/ads-responsive-web-development/combinadores-css/
+
+🔗 https://github.com/Felipixel-Martins/ads-responsive-web-development/tree/main/combinadores-css
+
+---
+
 ## Objetivos da Atividade
 
 - Estruturar **listas não ordenadas** utilizando a tag `ul`
