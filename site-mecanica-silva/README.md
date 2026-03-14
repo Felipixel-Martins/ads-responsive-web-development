@@ -4,7 +4,7 @@
 
 ## Informações do Projeto
 
-Link page: https://felipixel-martins.github.io/site-mecanica-silva/
+Link page: https://felipixel-martins.github.io/ads-responsive-web-development/site-mecanica-silva/
 
 Repositório para exibir o **Projeto do HANDS ON WORK V - UNIVALI ADS - 2026**.
 
