@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Carousel */
+.carousel-item img {
+    height: 500px;
+    object-fit: cover;
+}
+
+/* Cards */
+.card {
+    margin-bottom: 20px;
+}
+
+.corverde {
+    background-color: #e2ffe2;
+}
+
+/* Contato */
+#contato h3 {
+    color: #007bff;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#contato iframe {
+    border-radius: 8px;
+    min-height: 300px;
+}
+
+#contato form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+#contato button {
+    width: 150px;
+    align-self: center;
+}
+
+/* Footer */
+footer {
+    background-color: #f5f5dc;
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    #contato .row {
+        flex-direction: column-reverse;
+    }
+
+    #contato iframe {
+        min-height: 250px;
+    }
+
+    #contato button {
+        width: 100%;
+    }
+}
+
+.carousel-item {
+    height: 93vh;
+}
+
+.carousel-item img {
+    height: auto; /* altura do banner */
+    width: 15px;
+    object-fit: cover; /* mantém proporção e corta de forma bonita */
+}
