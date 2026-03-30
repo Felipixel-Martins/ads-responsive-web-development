@@ -14,7 +14,7 @@
 
 <body>
     <!-- Menu -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar navbar-expand-lg navbar-light ">
         <div class="container-fluid">
             <a class="navbar-brand" href="#">Viagem à Rio de Janeiro</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
@@ -44,13 +44,13 @@
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="src/img/cristo.jpg" class="d-block w-100" alt="Beira do Rio">
+                <img src="src/img/cristo.jpg" class="d-block w-100" alt="Imagem do Cristo">
             </div>
             <div class="carousel-item">
-                <img src="src/img/rio-banner.jpg" class="d-block w-100" alt="Beira Mar">
+                <img src="src/img/rio-banner.jpg" class="d-block w-100" alt="Imagem cidade">
             </div>
             <div class="carousel-item">
-                <img src="src/img/rio-praia.webp" class="d-block w-100" alt="Casas">
+                <img src="src/img/rio-praia.webp" class="d-block w-100" alt="Imagem praia">
             </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
@@ -103,28 +103,25 @@
     </div>
 
     <!-- Contato com mapa -->
-    <section id="contato" class="py-5 corverde">
+    <section id="contato" class="py-5 contatoform">
         <div class="container">
             <div class="row align-items-center">
                 <!-- Mapa à esquerda -->
                 <div class="col-md-6 mb-4 mb-md-0">
-                    <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3550.422656559625!2d-48.586697088989965!3d-27.14298900276669!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94d8af667c6d0c69%3A0xef637a37a20a9c0d!2sHard%20Rock%20Cafe%20Itapema!5e0!3m2!1sen!2sbr!4v1774647081631!5m2!1sen!2sbr"
-                        width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy"
-                        referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3673.9541406239955!2d-43.213062123853405!3d-22.95191597922342!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x997fd5984aa13f%3A0x9dc984d7019502de!2sCristo%20Redentor!5e0!3m2!1spt-BR!2sbr!4v1774902396347!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
 
                 <!-- Formulário à direita -->
                 <div class="col-md-6">
                     <h3>Entre em Contato</h3>
                     <form>
-                        <input type="text" class="form-control mb-3" placeholder="Seu nome" required>
+                        <input type="text" class="form-control mb-3" placeholder="Nome Completo" required>
                         <input type="email" class="form-control mb-3" placeholder="Seu e-mail" required>
                         <input type="text" class="form-control mb-3" placeholder="Assunto" required>
-                        <textarea class="form-control mb-3" rows="4" placeholder="Mensagem" required></textarea>
+                        <textarea class="form-control mb-3" rows="4" placeholder="Escreva sua Mensagem..." required></textarea>
                         <div class="form-check mb-3">
                             <input type="checkbox" class="form-check-input" id="newsletterCheck">
-                            <label class="form-check-label" for="newsletterCheck">Quero receber e-mails.</label>
+                            <label class="form-check-label" for="newsletterCheck">Quero receber e-mails e atualizações.</label>
                         </div>
                         <button type="submit" class="btn btn-primary">Enviar</button>
                     </form>

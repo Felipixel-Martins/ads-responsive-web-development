@@ -2,6 +2,10 @@ body {
     font-family: Arial, sans-serif;
 }
 
+.navbar {
+    background-color:bisque;
+}
+
 /* Carousel */
 .carousel-item img {
     height: 500px;
@@ -13,13 +17,17 @@ body {
     margin-bottom: 20px;
 }
 
-.corverde {
-    background-color: #e2ffe2;
+.card-text {
+    color:darkgrey
+}
+
+.contatoform {
+    background-color: bisque;
 }
 
 /* Contato */
 #contato h3 {
-    color: #007bff;
+    color: #000000;
     margin-bottom: 20px;
     text-align: center;
 }
@@ -42,7 +50,7 @@ body {
 
 /* Footer */
 footer {
-    background-color: #f5f5dc;
+    background-color:gray;
     padding: 20px;
     text-align: center;
     font-weight: bold;
