@@ -1,0 +1,156 @@
+/* Reset e Configurações Globais */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+/* Container da Calculadora */
+.calculator {
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 30px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+    padding: 25px;
+    width: 100%;
+    max-width: 500px;
+    transition: transform 0.3s ease;
+}
+
+.calculator:hover {
+    transform: translateY(-5px);
+}
+
+/* Display */
+.display {
+    background: #1e293b;
+    color: #fff;
+    border-radius: 20px;
+    padding: 25px;
+    margin-bottom: 25px;
+    text-align: right;
+    word-wrap: break-word;
+    word-break: break-all;
+}
+
+.previous-operand {
+    color: #94a3b8;
+    font-size: 1.2rem;
+    min-height: 32px;
+    margin-bottom: 10px;
+}
+
+.current-operand {
+    color: #fff;
+    font-size: 2.5rem;
+    font-weight: bold;
+    line-height: 1.2;
+}
+
+/* Grade de Botões - 4 colunas */
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
+}
+
+/* Estilos Gerais dos Botões */
+button {
+    border: none;
+    background: #f1f5f9;
+    font-size: 1.2rem;
+    padding: 18px 12px;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-weight: 600;
+    color: #1e293b;
+}
+
+button:hover {
+    transform: scale(0.95);
+    filter: brightness(0.95);
+}
+
+button:active {
+    transform: scale(0.92);
+}
+
+/* Botões Especiais */
+.span-2 {
+    grid-column: span 2;
+}
+
+.operator {
+    background: #f59e0b;
+    color: white;
+}
+
+.equals {
+    background: #10b981;
+    color: white;
+}
+
+.function {
+    background: #8b5cf6;
+    color: white;
+    font-size: 0.9rem;
+}
+
+.number {
+    background: #ffffff;
+    border: 2px solid #e2e8f0;
+    font-weight: bold;
+}
+
+/* Responsividade */
+@media (max-width: 600px) {
+    .calculator {
+        padding: 15px;
+    }
+    
+    button {
+        padding: 12px 8px;
+        font-size: 1rem;
+    }
+    
+    .current-operand {
+        font-size: 1.8rem;
+    }
+    
+    .buttons {
+        gap: 8px;
+    }
+}
+
+@media (max-width: 450px) {
+    button {
+        padding: 10px 6px;
+        font-size: 0.85rem;
+    }
+}
+
+/* Animações */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.calculator {
+    animation: fadeIn 0.5s ease;
+}
