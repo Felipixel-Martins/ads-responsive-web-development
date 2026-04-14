@@ -18,9 +18,9 @@ Este repositório contém o código-fonte completo da aplicação.
 
 A página pode ser acessada através do GitHub Pages:
 
-🔗 https://seu-usuario.github.io/ads-responsive-web-development/calculadora/
+🔗 https://github.com/Felipixel-Martins/ads-responsive-web-development/tree/main/calculadora
 
-🔗 https://github.com/seu-usuario/ads-responsive-web-development/tree/main/calculadora
+🔗 https://felipixel-martins.github.io/ads-responsive-web-development/calculadora/
 
 ## Objetivos da Atividade
 
