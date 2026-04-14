@@ -94,7 +94,7 @@ class Calculator {
         const current = parseFloat(this.currentOperand);
         if (isNaN(current)) return;
         this.currentOperand = (current / 100).toString();
-        this.waitingForOperand = true; // Adicionado para melhor UX
+        this.waitingForOperand = true;
     }
 
     squareRoot() {
@@ -225,7 +225,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    // Suporte para teclado (melhorado)
+    // Suporte para teclado
     document.addEventListener('keydown', (e) => {
         // Prevenir comportamento padrão em algumas teclas
         if (e.key === 'Enter' || e.key === '=' || e.key === 'Escape') {

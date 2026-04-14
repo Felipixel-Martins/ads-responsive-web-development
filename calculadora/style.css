@@ -112,6 +112,12 @@ button:active {
     font-weight: bold;
 }
 
+/* Estilo específico para botão delete */
+button[data-action="delete"] {
+    background: #64748b;
+    color: white;
+}
+
 /* Responsividade */
 @media (max-width: 600px) {
     .calculator {
