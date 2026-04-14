@@ -61,6 +61,19 @@ Desenvolvimento atividade semanal com foco na criação de links utilizando as t
 
 ---
 
+## 🔧 Projeto 05 — calculadora-cientifica
+
+Desenvolvimento de uma calculadora completa com operações básicas, funções matemáticas (√, x², xʸ, π), suporte a teclado físico e design responsivo utilizando HTML, CSS e JavaScript.
+
+🔗 https://felipixel-martins.github.io/ads-responsive-web-development/calculadora/
+
+🔗 https://github.com/Felipixel-Martins/ads-responsive-web-development/tree/main/calculadora
+
+HTML/CSS/JavaScript
+Calculadora com funções básicas e avançadas
+
+---
+
 # 🎓 Informações Acadêmicas
 
 **Curso:** Análise e Desenvolvimento de Sistemas (ADS)
