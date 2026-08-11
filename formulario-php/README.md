@@ -1,26 +1,36 @@
 # Bem-vindo ao Projeto
 
-![Logo da Auto Mecânica Silva](./img/tela-banner.png)
+![nome da imagem aqui](./img/tela-banner.png)
 
 ## Informações do Projeto
 
-Link page: https://felipixel-martins.github.io/site-mecanica-silva/
+Link page: 
 
-Repositório para exibir o **Projeto do HANDS ON WORK V - UNIVALI ADS - 2026**.
+Repositório para exibir o **Projeto do ... - UNIVALI ADS - 2026**.
 
 Este projeto consiste em uma **página web simples** desenvolvida como parte das atividades do curso de **Análise e Desenvolvimento de Sistemas da UNIVALI**.
 
 Este repositório contém o **código-fonte da aplicação**.
 
+---
+
+## Link do Projeto
+
+A página pode ser acessada através do GitHub Pages:
+
+🔗 
+
+🔗 
+
+---
+
 ## Tecnologias utilizadas no projeto
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- HTML5
+- 
 
-- Css
 
-- JavaScript
 
 ---
 

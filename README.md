@@ -18,19 +18,11 @@ Cada projeto desenvolvido na disciplina está organizado em uma pasta própria d
 
 Página informativa sobre um animal em risco de extinção.
 
-🔗 https://github.com/Felipixel-Martins/ads-responsive-web-development/tree/main/tigre-extincao
-
-🔗 https://felipixel-martins.github.io/ads-responsive-web-development/tigre-extincao/
-
 ---
 
 ## ✉️ Projeto 02 — carta-ong
 
 Projeto de uma página HTML simulando uma carta formal destinada a uma ONG.
-
-🔗 https://felipixel-martins.github.io/ads-responsive-web-development/carta-ong/
-
-🔗 https://github.com/Felipixel-Martins/ads-responsive-web-development/tree/main/carta-ong
 
 ---
 
@@ -38,41 +30,26 @@ Projeto de uma página HTML simulando uma carta formal destinada a uma ONG.
 
 Desenvolvimento de um site simples para uma mecânica automotiva.
 
-🔗 https://felipixel-martins.github.io/ads-responsive-web-development/site-mecanica-silva/
-
-🔗 https://github.com/Felipixel-Martins/ads-responsive-web-development/tree/main/site-mecanica-silva
-
 * Construção de layout de página
 * Organização de conteúdo
 * Estrutura de site institucional simples
 
 ---
 
-## 🔧 Projeto 04 — combinadores-css
+### 🌿 Projeto 04 — sistema-unidades-conservacao
 
-Desenvolvimento atividade semanal com foco na criação de links utilizando as tags HTML.
+Sistema para gerenciamento de unidades de conservação.
 
-🔗 https://felipixel-martins.github.io/ads-responsive-web-development/combinadores-css/
-
-🔗 https://github.com/Felipixel-Martins/ads-responsive-web-development/tree/main/combinadores-css
-
-* HTML/CSS
-* Estrutura simples
-
----
-
-## 🔧 Projeto 05 — calculadora-cientifica
-
-Desenvolvimento de uma calculadora completa com operações básicas, funções matemáticas (√, x², xʸ, π), suporte a teclado físico e design responsivo utilizando HTML, CSS e JavaScript.
-
-🔗 https://felipixel-martins.github.io/ads-responsive-web-development/calculadora/
-
-🔗 https://github.com/Felipixel-Martins/ads-responsive-web-development/tree/main/calculadora
-
-HTML/CSS/JavaScript
-Calculadora com funções básicas e avançadas
+**Tecnologias:** PHP, HTML, CSS  
+**Conceitos aplicados:** 
+- Desenvolvimento back-end com PHP
+- Integração com banco de dados
+- CRUD (Create, Read, Update, Delete)
+- Interface administrativa
+- Gestão de áreas de preservação ambiental
 
 ---
+
 
 # 🎓 Informações Acadêmicas
 
@@ -88,3 +65,4 @@ Calculadora com funções básicas e avançadas
 Desenvolvido por **Felipixel-Martins**
 
 Projetos acadêmicos desenvolvidos durante o curso de ADS.
+
